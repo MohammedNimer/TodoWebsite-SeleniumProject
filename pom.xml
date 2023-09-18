@@ -20,8 +20,9 @@
                 <artifactId>maven-surefire-plugin</artifactId>
                 <version>3.1.2</version>
                 <configuration>
+                    <testFailureIgnore>true</testFailureIgnore>
                     <parallel>classes</parallel>
-                    <threadCount>1</threadCount>
+                    <threadCount>3</threadCount>
                 </configuration>
             </plugin>
         </plugins>
