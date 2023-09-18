@@ -13,6 +13,7 @@ jobs:
           java-version: '19'
           distribution: 'temurin'
           cache: maven
+      - uses: browser-actions/setup-chrome@latest
 
       - run: mvn clean test
       - name : Get Allure history
