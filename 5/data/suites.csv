@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Mon Sep 18 20:27:41 GMT 2023","Mon Sep 18 20:27:41 GMT 2023","2","Surefire suite","Surefire test","com.qacart.todo.testcases.LoginTest","com.qacart.todo.testcases.LoginTest","setup","setup",""
+"broken","Mon Sep 18 20:27:41 GMT 2023","Mon Sep 18 20:27:41 GMT 2023","7","Surefire suite","Surefire test","com.qacart.todo.testcases.TodoTest","com.qacart.todo.testcases.TodoTest","setup","setup",""
+"skipped","Mon Sep 18 20:27:41 GMT 2023","Mon Sep 18 20:27:41 GMT 2023","6","Surefire suite","Surefire test","com.qacart.todo.testcases.TodoTest","com.qacart.todo.testcases.TodoTest","addNewTodoSuccessfully","addNewTodoSuccessfully",""
+"skipped","Mon Sep 18 20:27:41 GMT 2023","Mon Sep 18 20:27:41 GMT 2023","1","Surefire suite","Surefire test","com.qacart.todo.testcases.TodoTest","com.qacart.todo.testcases.TodoTest","deleteTodoSuccessfully","deleteTodoSuccessfully",""
+"skipped","Mon Sep 18 20:27:41 GMT 2023","Mon Sep 18 20:27:41 GMT 2023","0","Surefire suite","Surefire test","com.qacart.todo.testcases.LoginTest","com.qacart.todo.testcases.LoginTest","LoginWithEmailAndPasswordSuccessfully","LoginWithEmailAndPasswordSuccessfully",""
